@@ -1,0 +1,10 @@
+{
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust"
+  },
+  "rust.clippy_preference": "on",
+  "rust-client.autoStartRls": true,
+  "rust-client.engine": "rls",
+  "rust.all_features": true,
+  "rust.rust-analyzer.releaseTag": "stable"
+}
